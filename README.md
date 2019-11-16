@@ -7,8 +7,8 @@ Step 3: Enjoy
 
 *Only works on Windows*
 
-![Home](https://github.com/aanandbajaj/Moana-NasaSpaceApps/blob/master/images/Main_Screen.JPG)
-![GUI](https://github.com/aanandbajaj/Moana-NasaSpaceApps/blob/master/images/GUI.JPG)
+![Home](https://github.com/aanandbajaj/RPG-Excel/blob/master/ReadmeImages/Main_Screen.JPG)
+![GUI](https://github.com/aanandbajaj/RPG-Excel/blob/master/ReadmeImages/GUI.JPG)
 
 
 ## Technical Details
