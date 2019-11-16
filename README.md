@@ -6,7 +6,10 @@ Step 2: Click 'Start Game' </br>
 Step 3: Enjoy
 
 *Only works on Windows*
-![Data Visualization](https://github.com/aanandbajaj/Moana-NasaSpaceApps/blob/master/images/image3.png)
+
+![Home](https://github.com/aanandbajaj/Moana-NasaSpaceApps/blob/master/images/Main_Screen.JPG)
+![GUI](https://github.com/aanandbajaj/Moana-NasaSpaceApps/blob/master/images/GUI.JPG)
+
 
 ## Technical Details
 This is an RPG Game made in Excel using VBA for a school project. 
@@ -20,10 +23,10 @@ Role-Playing Games (RPGs) are games in which players assume the roles of charact
 * The game is not a continuous event, rather it plays out as the character progresses through the story
 
 ### How the Maps Were Made
-* Used an application called "Tiled" to build the image of the map (20 x 10)
+Used an application called "Tiled" to build the image of the map (20 x 10)
 ![Main Map](https://github.com/aanandbajaj/RPG-Excel/blob/master/ReadmeImages/Main_Map_Scene_Door.png)
 
-* To implement collisions, I mapped the 20 x 10 grid system on to another Excel spreadsheet, where each cell was a floor, door, wall, etc. Putting the map image and the map tiles together allowed me to implement a complete generalized map system. 
+To implement collisions, I mapped the 20 x 10 grid system on to another Excel spreadsheet, where each cell was a floor, door, wall, etc. Putting the map image and the map tiles together allowed me to implement a complete generalized map system. 
 ![Main Map Tiles](https://github.com/aanandbajaj/RPG-Excel/blob/master/ReadmeImages/Main_Map_Tiles.JPG)
 
 ### Sprite System 
