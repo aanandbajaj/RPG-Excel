@@ -12,7 +12,7 @@ Step 3: Enjoy
 
 
 ## Technical Details
-This is an RPG Game made in Excel using VBA for a school project. 
+This is an RPG Game made in Excel using VBA.
 
 ### What is an RPG Game?
 Role-Playing Games (RPGs) are games in which players assume the roles of characters in a fictional setting.
